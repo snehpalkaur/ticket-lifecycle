@@ -60,8 +60,8 @@ She also makes sure to switch the status of the issue from open to resolved:
 Support agent John sees in his portal that System Administrator agent Jane has left him a message and that the ticket is now closed:)
 
 
-And there you have it. This was just a very simple scenario of the creation of a ticket by a user, assignment and communication of a ticket between agents, and ultimately it's resolution.
+This was just a very straightforward example of how a ticket may be created by a user, assigned to an agent, communicated with that agent, and then be resolved.
 
-There many other scenarios that can happen during the handling of a ticket. Sometimes a ticket has to be reassigned to a different department. Other times it's priority needs to be escalated. Or sometimes it needs to be both reassigned and escalated.
+Several different circumstances can occur while handling a ticket. A ticket could occasionally need to be transferred to another department. Other times, the priority needs to be raised. Maybe perhaps it needs to be both reassigned and escalated.
 
-I hope this tutorial helps you understand what can typically go on behind the scenes of a help desk department. During any given day, help desk agents can have anywere between just 10 tickets all the way up to hundreds of tickets in their pipeline. So if this is something you'd like to do, just keep that in mind
+I hope this video has given you a better understanding of what normally happens in a help desk department behind the scenes. Help desk representatives may have anywhere from 15 tickets to hundreds in their pipeline on any one day.
